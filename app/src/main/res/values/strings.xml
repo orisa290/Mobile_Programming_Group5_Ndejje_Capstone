@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- App Name -->
+    <string name="app_name">Lost &amp; Found Hub</string>
+
+    <!-- Add Item Screen -->
+    <string name="report_item">Report Item</string>
+    <string name="back">Back</string>
+    <string name="report_as">Report as:</string>
+    <string name="lost">Lost</string>
+    <string name="found">Found</string>
+    <string name="add_image">Add image</string>
+    <string name="tap_to_add_image">Tap to add image</string>
+    <string name="item_title">Item Title</string>
+    <string name="description">Description</string>
+    <string name="category_hint">Category</string>
+    <string name="location_hint">Location</string>
+    <string name="date_hint">Date</string>
+    <string name="submit_report">SUBMIT REPORT</string>
+    <string name="submitting">Submitting...</string>
+
+    <!-- Error Messages -->
+    <string name="error_title_required">Please enter a title</string>
+    <string name="error_description_required">Please enter a description</string>
+    <string name="error_category_required">Please enter a category</string>
+    <string name="error_location_required">Please enter a location</string>
+    <string name="error_date_required">Please enter a date</string>
+    <string name="error_create_failed">Failed to create item. Please try again.</string>
+
+    <!-- Login Screen -->
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="no_account">Don\'t have an account? Sign Up</string>
+    <string name="login_error">Login failed. Please check your credentials</string>
+
+    <!-- Sign Up Screen -->
+    <string name="create_account">Create Account</string>
+    <string name="full_name">Full Name</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="already_have_account">Already have an account? Login</string>
+    <string name="signup_error">Sign up failed. Please try again</string>
+    <string name="password_mismatch">Passwords do not match</string>
+    <string name="password_too_short">Password must be at least 6 characters</string>
+    <string name="name_required">Please enter your name</string>
+
+    <!-- Home Screen -->
+    <string name="lost_found_hub">Lost &amp; Found Hub</string>
+    <string name="messages">Messages</string>
+    <string name="my_items">My Items</string>
+    <string name="logout">Logout</string>
+    <string name="no_items_found">No items found</string>
+
+    <!-- Item Details Screen -->
+    <string name="item_details">Item Details</string>
+    <string name="category">Category</string>
+    <string name="location_label">Location</string>
+    <string name="date_label">Date</string>
+    <string name="status_label">Status</string>
+    <string name="message_owner">Message Owner</string>
+    <string name="mark_as_resolved">Mark as Resolved</string>
+
+    <!-- Chat Screen -->
+    <string name="chat">Chat</string>
+    <string name="send">Send</string>
+    <string name="type_message">Type a message...</string>
+    <string name="no_messages">No messages yet</string>
+
+    <!-- Chat List Screen -->
+    <string name="no_chats">No messages yet</string>
+
+    <!-- My Items Screen -->
+    <string name="my_reports">My Reports</string>
+    <string name="no_reports">No reports yet</string>
+</resources>
