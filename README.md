@@ -1,6 +1,6 @@
 # Lost & Found Hub - Ndejje Campus Connect
 
-## 👥 Team Roster
+## Team Roster
 
 | Name | Student ID | Role |
 |------|------------|------|
@@ -11,7 +11,7 @@
 
 ---
 
-## 🎯 Feature Set
+## Feature Set
 
 | # | Feature | Description |
 |---|---------|-------------|
@@ -28,7 +28,7 @@
 
 ---
 
-## 🛠️ Technical Stack
+## Technical Stack
 
 | Category | Technology | Version |
 |----------|------------|---------|
@@ -46,7 +46,7 @@
 
 ---
 
-## 📱 Screens Implemented
+## Screens Implemented
 
 1. **Splash Screen** - App launch with logo
 2. **Login Screen** - Email/password authentication
@@ -60,7 +60,7 @@
 
 ---
 
-## 🔧 Professional Coding Standards
+## Professional Coding Standards
 
 | Standard | Status |
 |----------|--------|
@@ -74,9 +74,11 @@
 
 ---
 
-## 📦 APK Download
+## APK Download
 
 [Download APK](app/build/outputs/apk/release/app-release.apk)
 
+## YouTube link
 
+https://youtu.be/-j8BzeXyz7o?si=MNkw19rncuLt5xP2
 
